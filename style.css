@@ -1,0 +1,34 @@
+.ami{
+	background-image:url('image/Spa.jpg');
+	text-align:center;
+	width:cover;
+	height:100%;
+	background-position:center;
+	padding-top:150px;
+	padding-bottom:150px
+}
+.tomi{
+	background-color:#ffffd1;
+	text-align:center
+}
+.flying{
+	width:1440px;
+	background-color:#9e9e9e38;
+	margin:20px auto;
+	border-top:50px
+}
+.sky{
+	width:1440px;
+	height:300px;
+	text-align:center;
+	background:#660066;
+	margin:20px auto;
+}
+.font{
+	font-family:Segoe Script;
+	
+}
+.bha{
+	color:yellow;
+	font-family: 'Great Vibes', cursive;
+}
